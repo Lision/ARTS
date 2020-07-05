@@ -1,5 +1,7 @@
 # ARTS
 
+![](./arts.png)
+
 The personal ARTS weekly execution plan.
 
 A: Algorithm, do at least one LeetCode algorithm problem.
